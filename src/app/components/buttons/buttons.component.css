@@ -1,0 +1,45 @@
+.group {
+    float: left;
+    height: auto;
+    width: auto;
+    padding: 0.5% 1%;
+    margin-top: 2%;
+
+    background: transparent;
+    border: 3px solid #6058BE;
+    border-radius: 61px;
+
+    color: #130F25;
+    font-family: 'Inter';
+    font-size: 100%;
+    font-weight: 500;
+
+    cursor: pointer;
+}
+
+.group:hover, .group:active {
+    background: #E4005C;
+    border: 3px solid transparent;
+    color: #FFFFFF;
+    font-weight: 500;
+}
+
+#button1 {
+    margin-left: 25%;
+}
+
+#button2 {
+    margin-left: 3%;
+}
+
+#button3 {
+    margin-left: 3%;
+}
+
+#button4 {
+    margin-left: 3%;
+}
+
+#button5 {
+    margin-left: 3%;
+}
